@@ -1,6 +1,6 @@
 # Cyano: An advanced Rust-to-JavaScript transpiler
 
-Cynao implements a transpiler converting Rust (MIR output) to JavaScript. It
+Cyano implements a transpiler converting Rust (MIR output) to JavaScript. It
 supports most of Rust's features, but still lacks of support for various Rust
 libraries.
 
